@@ -471,6 +471,7 @@ Created by Premium Dev Team.
 **Version:** 3.99.0 
 **Last Updated:** 2026  
 **Developed with Bae for FiveM Community**
+
 **ID** **kalau ada bugss atau ada pertanyaan boleh dm ya email aku tayakoa7@gmail.com**
 **EN** **If you encounter any bugs or have any questions, feel free to DM me. My email is tayakoa7@gmail.com**
 
