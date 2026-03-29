@@ -1,16 +1,16 @@
-# 🔥 FiveM Development Pipeline V3 SUPREME 🔥
+# 🔥 FiveM Development Pipeline V3 🔥
 
 ## 📖 COMPLETE DOCUMENTATION
 
 ### Version: 3.99.0
-### Author: Premium Dev Team
+### Author: Bae & Dev Team
 ### Category: FiveM/GTA V Development
 
 ---
 
 ## 🎯 WHAT IS THIS?
 
-**FiveM Development Pipeline V3 SUPREME** adalah Blender addon ULTIMATE untuk FiveM/GTA V asset development dengan **50+ premium features**. Script ini dibuat untuk memaksimalkan workflow development dan menghasilkan assets berkualitas tinggi yang optimized untuk FiveM server.
+**FiveM Development Pipeline V3 SUPREME** adalah Blender addon ULTIMATE untuk FiveM/GTA V asset development dengan **50+  features**. Script ini dibuat untuk memaksimalkan workflow development dan menghasilkan assets berkualitas tinggi yang optimized untuk FiveM server.
 
 ---
 
@@ -468,6 +468,6 @@ Created by Premium Dev Team.
 
 ---
 
-**Version:** 3.99.0 SUPREME  
+**Version:** 3.99.0 
 **Last Updated:** 2026  
-**Developed with ❤️ for FiveM Community**
+**Developed with Bae for FiveM Community**
